@@ -2,3 +2,5 @@
 
 Summarize Article with OpenAI GPT
 
+Simplify your reading 
+
